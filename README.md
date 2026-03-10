@@ -1,16 +1,47 @@
-## Hi there 👋
+# Higgi
 
-<!--
-**KashDummyEnt/KashDummyEnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Developer | Roblox Scripter | Systems Developer
 
-Here are some ideas to get you started:
+I build advanced gameplay systems including AI entities, anti-cheat systems, combat mechanics, and server architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- Roblox Lua
+- C++
+- Unity
+- Unreal Engine
+- Server-side systems
+- Anti-cheat development
+- NPC AI
+- Inventory systems
+
+---
+
+## Featured Projects
+
+### Horror AI System
+Advanced NPC with:
+- LOS detection
+- pathfinding
+- animation states
+- server sync
+
+### Roblox Anti Cheat
+Server validation system preventing:
+- speed hacks
+- movement exploits
+- client manipulation
+
+### Inventory + Equipment System
+Modular system with:
+- data persistence
+- gear management
+- UI syncing
+
+---
+
+## Contact
+
+Discord: higgi
