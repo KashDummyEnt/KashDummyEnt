@@ -44,4 +44,4 @@ Modular system with:
 
 ## Contact
 
-Discord: higgi
+Discord: kashdummy
